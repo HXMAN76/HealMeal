@@ -24,3 +24,5 @@ The primary objective of our project is to make a mobile application that provid
     ​
 
 - **Scalability**: The model could be extended to cover other medical conditions where diet is crucial, such as diabetes or cardiovascular diseases. Additionally, the system could be scaled to provide multilingual support or integrate with electronic health records (EHR) for more seamless operation. ​
+
+hello
